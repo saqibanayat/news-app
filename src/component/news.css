@@ -1,0 +1,22 @@
+.btnPreviews{
+    border-radius: 5px;
+    position: absolute;
+    background-color: green;
+    color: white;
+    border: none;
+    text-align: center;
+
+}
+.btnNext{
+    border-radius: 5px;
+    position: absolute;
+    background-color: green;
+    color: white;
+    border: none;
+    text-align: center;
+    right: 6pc;
+    vertical-align: middle;
+}
+.btnPreviews:disabled{
+    background-color: rgb(95, 145, 95);
+}

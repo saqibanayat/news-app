@@ -1,0 +1,34 @@
+.card {
+    
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px; 
+    width: 26rem;
+    height: auto;
+    margin-top: 30px;
+    margin-left: 70px;
+    
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .container {
+    padding: 2px 16px;
+  }
+  img {
+    border-radius: 5px 5px 0 0;
+  }
+  .btnDetail{
+   
+    margin-bottom: 6px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    padding: 3px 8px;
+    width: 100%;
+  }
